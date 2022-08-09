@@ -1,7 +1,7 @@
 # DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS
 
 👋 Welcome to this GitLab CI course available on freeCodeCamp.
-welcome to new edit-01
+welcome to new edit-02
 
 ## Getting started
 
